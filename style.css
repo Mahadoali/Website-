@@ -1,0 +1,252 @@
+
+    
+.links a{
+   color: grey; 
+   text-decoration: none;
+   font-weight: bold;
+   text-align: center;
+   justify-content: center;
+   margin-left: 120px;
+
+
+
+}
+#home a{
+    color: orange;
+}
+.email{
+    align-items: centre;
+    justify-content: center;
+    margin-left: 20%;
+    display: flex;
+}
+.fa-envelope-open-text{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.phone{
+  display: flex; 
+  margin-left: 50%; 
+  
+}
+.home{
+    display: flex;
+}
+.fa-phone-volume{
+    margin-top: 20%;
+
+    
+}
+.discover{
+    align-content: center;
+    justify-items: center;
+    display: flex;
+    margin-left: 20%;
+    background-color: darkgoldenrod;
+    color: white;
+    padding: 100px;
+    margin-right: 10%;
+    width: 100%;
+}
+.button{
+ margin-left: 20%;  
+ background-color: black; 
+ color: white;
+}
+.address{
+    
+    align-content: center;
+    justify-items: center;
+    margin-left: 20%;
+    background-color: black;
+    color: white;
+    gap: 3rem;
+    margin-right: 10%;
+    width: 100%;
+    
+
+}
+.content{
+    display: flex;
+    
+    
+}
+.brands{
+    gap: 90%;
+    width: 100%;
+    
+    
+}
+    
+
+.address ul{
+    list-style-type: none;
+}
+#moving_family{
+    width: 100%; height: 700px;
+}
+.textinimage{
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50% , -50%);
+    padding: 0px;
+    text-align: center;
+}
+#smooth-moving{
+    
+    font-weight: bold;
+}
+#makeiteasy{
+    font-size: 400%;
+    font-weight: bolder;
+    
+}
+#get-startedbtn{
+    padding: 25px;
+    background-color: orange;
+    color: white;
+    border: none;
+}
+#stockphotoimage{
+    height: 500px;width: 600px;
+}
+#box-image{
+    height: 500px; width: 500px;
+}
+.aboutus{
+    display: flex;
+    margin-left: 20%;
+    margin-top: 10%;
+
+}
+.images-logo{
+display: flex;
+margin-top: 100px;
+}
+.box-image1{
+    margin-left: 30px;
+}
+#logo1{
+    
+}
+#logo2{
+    height: 100px;width: 200px;
+    margin-left: 300px;
+}
+.boxes{
+    display: flex;
+    margin-left: 200px;
+    
+}
+#orange-box{
+    height: 60px;
+}
+.whatwedo{
+    text-align: center;
+    margin-top: 100px;
+}
+.bluebox{
+    padding-left: 200px;
+}
+.what-we{
+    font-weight: bold;
+    font-size: larger;
+}
+#services a{
+    color: orange;
+    font-weight: bold;
+}
+.bluebox-blue{
+    padding-left: 200px;
+    background-color: blue;
+    width: 100px;
+}
+.video img{
+    height: 100px;
+}
+.video{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+.clients{
+    margin-left: 300px;
+    display: flex;
+}
+.icon-video{
+position: relative;
+    top: 50%; left: 50%;
+    transform: translate(-50% , -50%);
+    padding: 0px;
+    text-align: center;
+    
+}
+#helping{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#many-boxes{
+    height: 500px; width: 400px;
+}
+.text-in-image{
+    margin-left: 300px;
+}
+.leading{
+    display: flex;
+}
+.choose{
+    margin-left: 100px;
+}
+.book{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.book a{
+    color: orange;
+}
+.form{
+    display: flex;
+    text-align: center;
+    margin-left: 300px;
+}
+.inputs{
+    margin-left: 0px;
+    background-color: blue;
+    width:1000px ;
+
+}
+.inputs input{
+    padding: 20px;
+    margin: 10px;
+}
+#form-image{
+    width: 100%;
+    height: 400px;
+}
+.book-now{
+    background-color: orange;
+    width: 600px;
+}
+.btn-primary{
+    border: 1.5px solid;
+
+    color: white;
+    background-color: orange;
+    padding: 20px;
+    border-radius: 5px;
+    height: 50px;
+}
+.review{
+    display: flex;
+    margin-left: 200px;
+    padding: 50px;
+}
+#white-woman{
+height: 50px; width: 50px;
+border-radius: 50%;
+}
+#name{
+    color: orange;
+}
+
